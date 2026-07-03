@@ -1,1 +1,1 @@
-console.log("Project Started");
+console.log("Ergonomic Body Map v0.1");
